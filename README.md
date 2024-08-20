@@ -1,6 +1,6 @@
 ### welcome to my profile 💙
 
-My name is Ezequiel Pereira
+My name is Ezequiel
 
 - I'm studying abroad
 - I'm developing in the JavaScript language
